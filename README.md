@@ -1,21 +1,15 @@
 [<img src="https://img.shields.io/badge/channel-telegram-blue">](https://t.me/careerunderhood) [<img src="https://img.shields.io/badge/message-telegram-blue">](https://t.me/ea_kozlov)
 
 
-Данный репозиторий - лучшее из того что мне удалось найти на просторах сети в процессе изучения System Design и подготовки к одноименному интервью. 
-
-Эти ресурсы были невероятно полезны для меня, поэтому я решил поделиться ими с сообществом, чтобы каждый мог взять этот репозиторий и начать свое путешествие в мир System Design. Контент разбит на 3 категории чтобы человек любого уровня подготовки мог найти именно то что нужно. 
-
-На первый взгляд может показаться что это слишком короткий гайд, и многих популярных книг и курсов в нем нет, но на самом деле каждая ссылка, особенно на Github репозитории раскрывается в огромное количество информации, в том числе с теми самыми книгами и курсами :)
+Данный репозиторий - лучшее из того что мне удалось найти на просторах сети в процессе изучения System Design и подготовки к одноименному интервью. Контент разбит на 3 категории чтобы человек любого уровня подготовки мог найти именно то что нужно. На первый взгляд может показаться что это слишком короткий гайд, и многих популярных книг и курсов в нем нет, но на самом деле каждая ссылка, особенно на Github репозитории раскрывается в огромное количество информации, в том числе с теми самыми книгами и курсами :)
 
 ## Содержание
 
 - [System Design Fundamentals](#system-design-fundamentals)
-- [All you need to know about interview](#all-you-need-to-know-about-interview)
-  * [What is System Design Interview?](#what-is-system-design-interview)
-  * [Cheatsheets](#cheatsheets)
-  * [Mock Interview](#mock-interview)
-  * [Practice](#practice)
-- [Advanced System Design](#advanced-system-design)
+- [System Design Interview](#system-design-interview)
+  * [Cheatsheets / Шпаргалки](#cheatsheets)
+  * [Mock Interview / Practice](#mock-interview-and-practice)
+- [Advanced Topics](#advanced-topics)
 
   
 ## System Design Fundamentals
@@ -24,16 +18,13 @@
 ](https://github.com/donnemartin/system-design-primer)
 -  :octocat: [Learn how to design systems at scale and prepare for system design interviews](https://github.com/karanpratapsingh/system-design)
 -  :octocat: [Learn System Design step by step](https://github.com/bregman-arie/system-design-notebook)
--  :link: [Latency Numbers Every Programmer Should Know](https://colin-scott.github.io/personal_website/research/interactive_latency.html)
+-  :octocat: [Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.](https://github.com/ByteByteGoHq/system-design-101)
+
+ 
+Помимо них меня здорово выручали красивые [cтатьи](https://blog.bytebytego.com/archive) и [видео](https://www.youtube.com/channel/UCZgt6AzoyjslHTC9dz0UoTw) от ByteByteGo. Также отмечу ресурсы [System Design Newsletter](https://newsletter.systemdesign.one/) и [Architecture Notes](https://architecturenotes.co/)
 
 
-Статьи:
--  :link: [The complete guide to System Design in 2023](https://www.educative.io/blog/complete-guide-to-system-design)
--  :link: [Architecture Notes](https://architecturenotes.co/)
-
-Закрепить знания помогают красивые [cтатьи](https://blog.bytebytego.com/archive) и [видео](https://www.youtube.com/channel/UCZgt6AzoyjslHTC9dz0UoTw) и [Github](https://github.com/ByteByteGoHq/system-design-101) ByteByteGo. Также отмечу ресурс [System Design Newsletter](https://newsletter.systemdesign.one/) 
-## All you need to know about interview
-### What is System Design Interview?
+## System Design Interview
 Прохождение интервью - отдельная история, так как нужно не только знать теорию а уметь её применять, коммуницировать с собеседником и держать темп чтобы уложиться во временные рамки. 
 Понять что требуется от человека на собесе и как максимизировать свои шансы помогут статьи:
 
@@ -47,14 +38,15 @@
 2.  :octocat: [System Design Cheatsheet (Github gist)](https://gist.github.com/vasanthk/485d1c25737e8e72759f)
 3.  :octocat: [System Design Ultimate Guide (Image)](system-design-guide.jpeg)
 4. :link: [Latency Numbers Every Programmer Should Know](https://colin-scott.github.io/personal_website/research/interactive_latency.html)
-### Mock Interview
+
+
+### Mock Interview and Practice
 - :tv: [Видео пробных собеседований от karpov.courses](https://www.youtube.com/watch?v=Ow88hoEnsq8&list=PLBRXq5LaddfzDBjg6soIwJJA2klXXs6ni)
 - :tv: [Интервью по System Design. Александр Поломодов (Тинькофф)](https://www.youtube.com/watch?v=Wh5Ya6UFG1k)
-- :link:[pramp.com - для самостоятельной практики](https://www.pramp.com/#/)
-### Practice
-- [Architectural Katas](https://www.architecturalkatas.com/)
-- [Architectural Katas by Neal Ford](https://nealford.com/katas/)
-## Advanced System Design
+- :link: [pramp.com - для самостоятельной практики](https://www.pramp.com/#/)
+- :link: [Architectural Katas](https://www.architecturalkatas.com/)
+- :link: [Architectural Katas by Neal Ford](https://nealford.com/katas/)
+## Advanced Topics
 System Design довольно обширная тема, изучать её можно бесконечно, поэтому если вы прочитали ресурсы выше и вам этого мало то ныряйте глубже :)
 - :octocat: **[The Patterns of Scalable, Reliable, and Performant Large-Scale Systems](https://github.com/binhnguyennus/awesome-scalability)**
 - :octocat: **[These are the best resources for System Design on the Internet](https://github.com/InterviewReady/system-design-resources)**
