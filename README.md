@@ -31,7 +31,6 @@
 - :link: Александр Поломодов: Как подготовиться и пройти System Design Interview. [:tv:  Видео](https://www.youtube.com/watch?v=jUbOm0B-eKQ) и [📖 статья](https://tellmeabout.tech/how-to-prepare-for-and-pass-the-system-design-interview-78b820589e8).
 - :link: [Как проходят архитектурные секции собеседования в Яндексе: практика дизайна распределённых систем](https://habr.com/ru/company/yandex/blog/564132/)
 - :link: [Проходим L6 интервью на System Design в FAANG](https://habr.com/ru/post/655663/)
-- :octocat: [Preparing for the Google System Design Interview](https://github.com/jguamie/system-design)
 ### Cheatsheets
 Шпаргалки здорово помогают во время интервью придерживать плана, защищают от забывчивости, поэтому рекомендую распечатать и держать перед собой на интервью, это важно!
 1. :link:  [My System Design Template (LeetCode)](https://leetcode.com/discuss/career/229177/My-System-Design-Template)
