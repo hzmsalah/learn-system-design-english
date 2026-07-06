@@ -1,4 +1,3 @@
-#Learn System Design (Translated)
 This repository is the best I could find online while studying System Design and preparing for the interview. The content is divided into three categories so that anyone of any skill level can find exactly what they need. At first glance, this guide might seem too short and lacking many popular books and courses, but in fact, each link, especially to Github repositories, reveals a wealth of information, including those very books and courses :)
 Credits to original author Eugene Kozlov (@abstractart & @beagreatengineer)
 
