@@ -1,57 +1,50 @@
-[<img src="https://img.shields.io/badge/channel-telegram-blue">](https://t.me/careerunderhood) [<img src="https://img.shields.io/badge/message-telegram-blue">](https://t.me/ea_kozlov)
+#Learn System Design (Translated)
+This repository is the best I could find online while studying System Design and preparing for the interview. The content is divided into three categories so that anyone of any skill level can find exactly what they need. At first glance, this guide might seem too short and lacking many popular books and courses, but in fact, each link, especially to Github repositories, reveals a wealth of information, including those very books and courses :)
+Credits to original author Eugene Kozlov (@abstractart & @beagreatengineer)
 
-
-Данный репозиторий - лучшее из того что мне удалось найти на просторах сети в процессе изучения System Design и подготовки к одноименному интервью. Контент разбит на 3 категории чтобы человек любого уровня подготовки мог найти именно то что нужно. На первый взгляд может показаться что это слишком короткий гайд, и многих популярных книг и курсов в нем нет, но на самом деле каждая ссылка, особенно на Github репозитории раскрывается в огромное количество информации, в том числе с теми самыми книгами и курсами :)
-
-## Содержание
+## Contents
 
 - [System Design Fundamentals](#system-design-fundamentals)
 - [System Design Interview](#system-design-interview)
-  * [Cheatsheets / Шпаргалки](#cheatsheets)
-  * [Mock Interview / Practice](#mock-interview-and-practice)
+ * [Cheatsheets / Cheat Sheets](#cheatsheets)
+ * [Mock Interview / Practice](#mock-interview-and-practice)
 - [Advanced Topics](#advanced-topics)
 
-  
 ## System Design Fundamentals
-В начале пути я использовал 3 репозитория, они здорово помогли мне освежить знания, систематизировать то что уже было и погрузиться в предметную область
--  :octocat: [Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
+Initially, I used three repositories. They really helped me refresh my knowledge, systematize what I already knew, and immerse myself in the subject area.
+- :octocat: [Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
 ](https://github.com/donnemartin/system-design-primer)
--  :octocat: [Learn how to design systems at scale and prepare for system design interviews](https://github.com/karanpratapsingh/system-design)
--  :octocat: [Learn System Design step by step](https://github.com/bregman-arie/system-design-notebook)
--  :octocat: [Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.](https://github.com/ByteByteGoHq/system-design-101)
+- :octocat: [Learn how to design systems at scale and prepare for system design interviews](https://github.com/karanpratapsingh/system-design)
+- :octocat: [Learn System Design step by step](https://github.com/bregman-arie/system-design-notebook)
+- :octocat: [Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.](https://github.com/ByteByteGoHq/system-design-101)
 
- 
-Помимо них меня здорово выручали красивые [cтатьи](https://blog.bytebytego.com/archive) и [видео](https://www.youtube.com/channel/UCZgt6AzoyjslHTC9dz0UoTw) от ByteByteGo. Также отмечу ресурсы [System Design Newsletter](https://newsletter.systemdesign.one/) и [Architecture Notes](https://architecturenotes.co/)
-
+Besides these, I was greatly helped by the beautiful [articles](https://blog.bytebytego.com/archive) and [videos](https://www.youtube.com/channel/UCZgt6AzoyjslHTC9dz0UoTw) from ByteByteGo. I'd also like to point out the [System Design Newsletter](https://newsletter.systemdesign.one/) and [Architecture Notes](https://architecturenotes.co/)
 
 ## System Design Interview
-Прохождение интервью - отдельная история, так как нужно не только знать теорию а уметь её применять, коммуницировать с собеседником и держать темп чтобы уложиться во временные рамки. 
-Понять что требуется от человека на собесе и как максимизировать свои шансы помогут статьи:
+Getting through the interview is a whole other story, as you need to not only know the theory but also be able to apply it, communicate with your interviewer, and maintain a pace to meet the deadline.
+The following articles will help you understand what's expected of you during the interview and how to maximize your chances:
 
-- :link: Александр Поломодов: Как подготовиться и пройти System Design Interview. [:tv:  Видео](https://www.youtube.com/watch?v=jUbOm0B-eKQ) и [📖 статья](https://tellmeabout.tech/how-to-prepare-for-and-pass-the-system-design-interview-78b820589e8).
-- :link: [Как проходят архитектурные секции собеседования в Яндексе: практика дизайна распределённых систем](https://habr.com/ru/company/yandex/blog/564132/)
-- :link: [Проходим L6 интервью на System Design в FAANG](https://habr.com/ru/post/655663/)
+- :link: Alexander Polomodov: How to Prepare for and Pass the System Design Interview. [:tv: Video](https://www.youtube.com/watch?v=jUbOm0B-eKQ) and [📖 article](https://tellmeabout.tech/how-to-prepare-for-and-pass-the-system-design-interview-78b820589e8).
+- :link: [How the architectural sections of the interview work at Yandex: Distributed Systems Design Practice](https://habr.com/ru/company/yandex/blog/564132/)
+- :link: [Advancing the L6 System Design Interview at FAANG](https://habr.com/ru/post/655663/)
 ### Cheatsheets
-Шпаргалки здорово помогают во время интервью придерживать плана, защищают от забывчивости, поэтому рекомендую распечатать и держать перед собой на интервью, это важно!
-1. :link:  [My System Design Template (LeetCode)](https://leetcode.com/discuss/career/229177/My-System-Design-Template)
-2.  :octocat: [System Design Cheatsheet (Github gist)](https://gist.github.com/vasanthk/485d1c25737e8e72759f)
-3.  :octocat: [System Design Ultimate Guide (Image)](system-design-guide.jpeg)
+Cheat sheets are a great way to stay on track during interviews and prevent forgetfulness, so I recommend printing them out and keeping them in front of you during the interview; they're essential!
+1. :link: [My System Design Template (LeetCode)](https://leetcode.com/discuss/career/229177/My-System-Design-Template)
+2. :octocat: [System Design Cheatsheet (Github gist)](https://gist.github.com/vasanthk/485d1c25737e8e72759f)
+3. :octocat: [System Design Ultimate Guide (Image)](system-design-guide.jpeg)
 4. :link: [Latency Numbers Every Programmer Should Know](https://colin-scott.github.io/personal_website/research/interactive_latency.html)
 
+## System Design Interview
+Getting through the interview is a whole other story, as you need to not only know the theory but also be able to apply it, communicate with your interviewer, and maintain a pace to meet the deadline.
+The following articles will help you understand what's expected of you during the interview and how to maximize your chances:
 
-### Mock Interview and Practice
-- :tv: [Видео пробных собеседований от karpov.courses](https://www.youtube.com/watch?v=Ow88hoEnsq8&list=PLBRXq5LaddfzDBjg6soIwJJA2klXXs6ni)
-- :tv: [Интервью по System Design. Александр Поломодов (Тинькофф)](https://www.youtube.com/watch?v=Wh5Ya6UFG1k)
-- :link: [pramp.com - для самостоятельной практики](https://www.pramp.com/#/)
-- :link: [Architectural Katas](https://www.architecturalkatas.com/)
-- :link: [Architectural Katas by Neal Ford](https://nealford.com/katas/)
-## Advanced Topics
-System Design довольно обширная тема, изучать её можно бесконечно, поэтому если вы прочитали ресурсы выше и вам этого мало то ныряйте глубже :)
-- :octocat: **[The Patterns of Scalable, Reliable, and Performant Large-Scale Systems](https://github.com/binhnguyennus/awesome-scalability)**
-- :octocat: **[These are the best resources for System Design on the Internet](https://github.com/InterviewReady/system-design-resources)**
-- :octocat: **[A curated list to learn about distributed systems](https://github.com/theanalyst/awesome-distributed-systems)**
-- :octocat: **[This repository contains System Design resources which are useful while preparing for interviews and learning Distributed Systems](https://github.com/ashishps1/awesome-system-design-resources)**
-- :octocat: [Roadmap to becoming a system design and architecture master](https://github.com/mohsenshafiei/system-design-master-plan)
-- :octocat: [Advanced data structure and algorithm for system design](https://github.com/resumejob/system-design-algorithms)
-- :tv: [Distributed Systems lecture series by Martin Kleppmann](https://www.youtube.com/playlist?list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB)
-- :link: [jepsen.io - Distributed Systems Safety Research](https://jepsen.io/)
+- :link: Alexander Polomodov: How to Prepare for and Pass the System Design Interview. [:tv: Video](https://www.youtube.com/watch?v=jUbOm0B-eKQ) and [📖 article](https://tellmeabout.tech/how-to-prepare-for-and-pass-the-system-design-interview-78b820589e8).
+- :link: [How the architectural sections of the interview work at Yandex: Distributed Systems Design Practice](https://habr.com/ru/company/yandex/blog/564132/)
+- :link: [Advancing the L6 System Design Interview at FAANG](https://habr.com/ru/post/655663/)
+
+### Cheatsheets
+Cheat sheets are a great way to stay on track during interviews and prevent forgetfulness, so I recommend printing them out and keeping them in front of you during the interview; they're essential!
+1. :link: [My System Design Template (LeetCode)](https://leetcode.com/discuss/career/229177/My-System-Design-Template)
+2. :octocat: [System Design Cheatsheet (Github gist)](https://gist.github.com/vasanthk/485d1c25737e8e72759f)
+3. :octocat: [System Design Ultimate Guide (Image)](system-design-guide.jpeg)
+4. :link: [Latency Numbers Every Programmer Should Know](https://colin-scott.github.io/personal_website/research/interactive_latency.html)
